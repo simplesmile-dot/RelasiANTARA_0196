@@ -1,4 +1,4 @@
-#include <iostream> //14
+#include <iostream> 
 using namespace std;
 
 #include "anak.h"
